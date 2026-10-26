@@ -1,0 +1,36 @@
+{
+  "feature_columns": [
+    "Age",
+    "Monthly_Income",
+    "Visits",
+    "Avg_Spending"
+  ],
+  "scaler_mean": [
+    44.699444444444445,
+    70631.6061111111,
+    10.085555555555555,
+    3041.818888888889
+  ],
+  "scaler_scale": [
+    15.18830689570186,
+    28602.638596579134,
+    6.123035941083677,
+    1698.4058595828712
+  ],
+  "threshold": 0.5,
+  "architecture": [
+    4,
+    16,
+    8,
+    1
+  ],
+  "best_epoch": 12,
+  "run_info": {
+    "torch": "2.11.0+cu128",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "sklearn": "1.9.1",
+    "device": "cuda",
+    "seed": 42
+  }
+}

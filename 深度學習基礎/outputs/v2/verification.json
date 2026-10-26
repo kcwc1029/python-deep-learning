@@ -1,0 +1,31 @@
+{
+  "code_cells_executed": 26,
+  "seconds": 6.57,
+  "device": "cuda",
+  "best_epoch": 12,
+  "data_rows": 3000,
+  "metrics": {
+    "Majority": {
+      "Accuracy": 0.5133333333333333,
+      "Precision": 0.5133333333333333,
+      "Recall": 1.0,
+      "F1": 0.6784140969162996,
+      "ROC_AUC": 0.5
+    },
+    "Logistic Regression": {
+      "Accuracy": 0.7516666666666667,
+      "Precision": 0.7492163009404389,
+      "Recall": 0.775974025974026,
+      "F1": 0.7623604465709729,
+      "ROC_AUC": 0.8552415050702722
+    },
+    "ANN": {
+      "Accuracy": 0.76,
+      "Precision": 0.759493670886076,
+      "Recall": 0.7792207792207793,
+      "F1": 0.7692307692307693,
+      "ROC_AUC": 0.8545743639921722
+    }
+  },
+  "reload_predictions_checked": true
+}

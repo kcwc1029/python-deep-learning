@@ -1,0 +1,4 @@
+﻿Customer_ID,Age,Monthly_Income,Visits,Avg_Spending,Purchase_Probability,Prediction
+NEW001,25,32000,2,600,0.06837265,0
+NEW002,40,85000,16,4500,0.92621255,1
+NEW003,62,58000,8,2200,0.16559458,0
